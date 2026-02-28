@@ -2,8 +2,6 @@ import { NextResponse } from "next/server";
 import picks from "@/data/picks-2025.json";
 import { computePool } from "@/lib/compute";
 
-export const revalidate = 60 * 60 * 12; // refresh ~2x/day
-
 type StandingRow = {
   team: { full_name: string; abbreviation: string };
   wins: number;
@@ -50,7 +48,6 @@ function parseEspnStandings(root: any): StandingRow[] {
     });
   }
 
-  // De-dupe by team name in case the API includes multiple grouping layers
   const seen = new Set<string>();
   return rows.filter((r) => {
     const k = r.team.full_name;
@@ -61,14 +58,14 @@ function parseEspnStandings(root: any): StandingRow[] {
 }
 
 export async function GET() {
+  const REVALIDATE_SECONDS = 60 * 60 * 12;
+
   try {
-    // ESPN NBA standings JSON: includes nested children -> standings -> entries -> stats(wins/losses)
-    // Example structure shows wins/losses inside entries[].stats. :contentReference[oaicite:1]{index=1}
     const url =
       "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings?contentorigin=espn&lang=en&region=us";
 
     const res = await fetch(url, {
-      next: { revalidate },
+      next: { revalidate: REVALIDATE_SECONDS },
       headers: { "User-Agent": "nba-overs/1.0" },
     });
 
