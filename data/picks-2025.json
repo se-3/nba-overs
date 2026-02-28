@@ -1,0 +1,152 @@
+[
+  {
+    "team": "Oklahoma City Thunder",
+    "line": 62.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Over", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "line": 56.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Denver Nuggets",
+    "line": 53.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "New York Knicks",
+    "line": 53.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Houston Rockets",
+    "line": 52.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Orlando Magic",
+    "line": 51.5,
+    "picks": { "Kevin": "Under", "Dave": "Over", "Nick": "Under", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "line": 50.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "LA Clippers",
+    "line": 48.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Under", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "line": 47.5,
+    "picks": { "Kevin": "Under", "Dave": "Over", "Nick": "Under", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Atlanta Hawks",
+    "line": 46.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Over", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Detroit Pistons",
+    "line": 45.5,
+    "picks": { "Kevin": "Under", "Dave": "Over", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "Golden State Warriors",
+    "line": 45.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "San Antonio Spurs",
+    "line": 44.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "line": 42.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "line": 42.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Over", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Dallas Mavericks",
+    "line": 41.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Under", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Boston Celtics",
+    "line": 40.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "line": 40.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Toronto Raptors",
+    "line": 39.5,
+    "picks": { "Kevin": "Under", "Dave": "Over", "Nick": "Under", "Corey": "Over", "Seth": "Under" }
+  },
+  {
+    "team": "Indiana Pacers",
+    "line": 38.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Miami Heat",
+    "line": 37.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Over", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "line": 35.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "Sacramento Kings",
+    "line": 35.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Chicago Bulls",
+    "line": 32.5,
+    "picks": { "Kevin": "Over", "Dave": "Under", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Phoenix Suns",
+    "line": 31.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "line": 30.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Over", "Corey": "Over", "Seth": "Over" }
+  },
+  {
+    "team": "Charlotte Hornets",
+    "line": 27.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Under", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Washington Wizards",
+    "line": 21.5,
+    "picks": { "Kevin": "Under", "Dave": "Under", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  },
+  {
+    "team": "Brooklyn Nets",
+    "line": 20.5,
+    "picks": { "Kevin": "Under", "Dave": "Over", "Nick": "Over", "Corey": "Under", "Seth": "Over" }
+  },
+  {
+    "team": "Utah Jazz",
+    "line": 18.5,
+    "picks": { "Kevin": "Over", "Dave": "Over", "Nick": "Under", "Corey": "Under", "Seth": "Under" }
+  }
+]
